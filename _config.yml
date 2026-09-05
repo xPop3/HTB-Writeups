@@ -23,7 +23,7 @@ author:
 
 # URL settings
 url: "https://xpop3.github.io"
-baseurl: "/HTB-Writeups"
+baseurl: ""
 permalink: /:title/
 google_analytics:
 fb_appid:
